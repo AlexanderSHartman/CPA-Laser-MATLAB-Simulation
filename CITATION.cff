@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hartman"
+  given-names: "Alexander"
+  orcid: "https://orcid.org/0009-0005-5491-542X"
+
+title: "CPA-Laser-MATLAB-Simulation"
+version: 1.0.0
+date-released: 2025-06-08
+url: "https://github.com/AlexanderSHartman/CPA-Laser-MATLAB-Simulation"
